@@ -1,0 +1,25 @@
+.nav-bar a{
+    width: 200px;
+    margin: 10px;
+    font-weight: bold;
+    text-transform: uppercase;;
+}
+.nav-bar{
+  padding: 20px;
+}
+h1:hover{
+  color:blue !important;
+}
+.col1:hover{
+  background: yellow !important;
+}
+.cl2:hover{
+  color: white !important;
+  background: yellow !important;
+}
+#col3:hover{
+  background: yellow !important;
+}
+.imag{
+  padding: 30px;
+}
